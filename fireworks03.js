@@ -1,5 +1,6 @@
 //Fireworks v. 03
-//This tutorial shows how to create many particles in the same position, and with random velocity vectors
+//This tutorial shows how to create many particles in the same position, 
+//and with random velocity vectors
 //
 //This release adds:
 //1. boundary test just for fun
@@ -12,7 +13,7 @@
 //TO DO:
 //1. 
 //
-//By Marcello Silva
+//By Marcelo Silva
 
 //canvas definition
 var document;var window;var init;
